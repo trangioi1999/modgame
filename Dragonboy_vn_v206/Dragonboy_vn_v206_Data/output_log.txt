@@ -1,0 +1,124 @@
+Initialize engine version: 5.6.6f2 (6bac21139588)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940MX (ID=0x134d)
+    Vendor:   NVIDIA
+    VRAM:     2010 MB
+    Driver:   30.0.15.1169
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\mod_game\ModNro\Dragonboy_vn_v206\Dragonboy_vn_v206_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\mod_game\ModNro\Dragonboy_vn_v206\Dragonboy_vn_v206_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\mod_game\ModNro\Dragonboy_vn_v206\Dragonboy_vn_v206_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\mod_game\ModNro\Dragonboy_vn_v206\Dragonboy_vn_v206_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\mod_game\ModNro\Dragonboy_vn_v206\Dragonboy_vn_v206_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\mod_game\ModNro\Dragonboy_vn_v206\Dragonboy_vn_v206_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\mod_game\ModNro\Dragonboy_vn_v206\Dragonboy_vn_v206_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\mod_game\ModNro\Dragonboy_vn_v206\Dragonboy_vn_v206_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.023 seconds
+Platform assembly: D:\mod_game\ModNro\Dragonboy_vn_v206\Dragonboy_vn_v206_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\mod_game\ModNro\Dragonboy_vn_v206\Dragonboy_vn_v206_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 75Hz; virtual: 3840x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 1.095100 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3590 -> priority: 1 
+  Thread -> id: 578c -> priority: 1 
+init Session_ME
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+init Session_ME
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to create a material from string - this is no longer supported.
+ 
+(Filename:  Line: 1086)
+
+connecting...!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+host: 103.90.224.147
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+port: 14446
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 157 unused Assets to reduce memory usage. Loaded Objects now: 1022.
+Total: 1.412400 ms (FindLiveObjects: 0.070400 ms CreateObjectMapping: 0.105600 ms MarkObjects: 1.117200 ms  DeleteObjects: 0.118600 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 732.
+Total: 2.169200 ms (FindLiveObjects: 0.038600 ms CreateObjectMapping: 0.038000 ms MarkObjects: 2.071300 ms  DeleteObjects: 0.020900 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 697.
+Total: 1.573200 ms (FindLiveObjects: 0.040700 ms CreateObjectMapping: 0.037400 ms MarkObjects: 1.492000 ms  DeleteObjects: 0.002600 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 122 unused Assets to reduce memory usage. Loaded Objects now: 790.
+Total: 2.856700 ms (FindLiveObjects: 0.057500 ms CreateObjectMapping: 0.073800 ms MarkObjects: 2.586200 ms  DeleteObjects: 0.138200 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 808.
+Total: 2.466000 ms (FindLiveObjects: 0.049900 ms CreateObjectMapping: 0.041000 ms MarkObjects: 2.343700 ms  DeleteObjects: 0.030800 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 808.
+Total: 1.970800 ms (FindLiveObjects: 0.060600 ms CreateObjectMapping: 0.071300 ms MarkObjects: 1.835500 ms  DeleteObjects: 0.002700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 825.
+Total: 2.074500 ms (FindLiveObjects: 0.049900 ms CreateObjectMapping: 0.040200 ms MarkObjects: 1.954800 ms  DeleteObjects: 0.028900 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 824.
+Total: 1.854100 ms (FindLiveObjects: 0.032300 ms CreateObjectMapping: 0.029600 ms MarkObjects: 1.747300 ms  DeleteObjects: 0.044000 ms)
+
+  at System.Net.Sockets.NetworkStream.Read (System.Byte[] buffer, Int32 offset, Int32 size) [0x00000] in <filename unknown>:0 
+  at System.IO.Stream.ReadByte () [0x00000] in <filename unknown>:0 
+  at System.IO.BinaryReader.ReadByte () [0x00000] in <filename unknown>:0 
+  at System.IO.BinaryReader.ReadSByte () [0x00000] in <filename unknown>:0 
+  at Session_ME+MessageCollector.readMessage () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+connecting...!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+host: 103.90.224.147
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+port: 14446
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+APP QUIT
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+  at System.Net.Sockets.NetworkStream.Read (System.Byte[] buffer, Int32 offset, Int32 size) [0x00000] in <filename unknown>:0 
+  at System.IO.Stream.ReadByte () [0x00000] in <filename unknown>:0 
+  at System.IO.BinaryReader.ReadByte () [0x00000] in <filename unknown>:0 
+  at System.IO.BinaryReader.ReadSByte () [0x00000] in <filename unknown>:0 
+  at Session_ME+MessageCollector.readMessage () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

@@ -1,0 +1,339 @@
+Initialize engine version: 5.6.6f2 (6bac21139588)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 930M (ID=0x1346)
+    Vendor:   NVIDIA
+    VRAM:     2020 MB
+    Driver:   23.21.13.8857
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\HairMod\Desktop\ModKoi206-master\Koi206-Pro\Dragonboy_vn_v206_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\HairMod\Desktop\ModKoi206-master\Koi206-Pro\Dragonboy_vn_v206_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\HairMod\Desktop\ModKoi206-master\Koi206-Pro\Dragonboy_vn_v206_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\HairMod\Desktop\ModKoi206-master\Koi206-Pro\Dragonboy_vn_v206_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\HairMod\Desktop\ModKoi206-master\Koi206-Pro\Dragonboy_vn_v206_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\HairMod\Desktop\ModKoi206-master\Koi206-Pro\Dragonboy_vn_v206_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\HairMod\Desktop\ModKoi206-master\Koi206-Pro\Dragonboy_vn_v206_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\HairMod\Desktop\ModKoi206-master\Koi206-Pro\Dragonboy_vn_v206_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.025 seconds
+Platform assembly: C:\Users\HairMod\Desktop\ModKoi206-master\Koi206-Pro\Dragonboy_vn_v206_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\HairMod\Desktop\ModKoi206-master\Koi206-Pro\Dragonboy_vn_v206_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 4.657200 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 44b8 -> priority: 1 
+  Thread -> id: 4a00 -> priority: 1 
+init Session_ME
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+init Session_ME
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to create a material from string - this is no longer supported.
+ 
+(Filename:  Line: 1086)
+
+connecting...!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+host: 103.90.224.245
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+port: 14446
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+  at System.Net.Sockets.NetworkStream.Read (System.Byte[] buffer, Int32 offset, Int32 size) [0x00000] in <filename unknown>:0 
+  at System.IO.Stream.ReadByte () [0x00000] in <filename unknown>:0 
+  at System.IO.BinaryReader.ReadByte () [0x00000] in <filename unknown>:0 
+  at System.IO.BinaryReader.ReadSByte () [0x00000] in <filename unknown>:0 
+  at Session_ME+MessageCollector.readMessage () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+connecting...!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+host: 103.90.224.245
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+port: 14446
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TOO LONG FOR STOP AUDIO
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Function __thiscall SoundChannelStopList::~SoundChannelStopList(void) may only be called from main thread!
+ 
+(Filename:  Line: 21)
+
+Function __thiscall SoundChannelStopList::~SoundChannelStopList(void) may only be called from main thread!
+ 
+(Filename:  Line: 21)
+
+Function __thiscall SoundChannelStopList::~SoundChannelStopList(void) may only be called from main thread!
+ 
+(Filename:  Line: 21)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 161 unused Assets to reduce memory usage. Loaded Objects now: 1029.
+Total: 1.773300 ms (FindLiveObjects: 0.070900 ms CreateObjectMapping: 0.067800 ms MarkObjects: 1.494600 ms  DeleteObjects: 0.139400 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 741.
+Total: 1.774900 ms (FindLiveObjects: 0.034500 ms CreateObjectMapping: 0.035000 ms MarkObjects: 1.688500 ms  DeleteObjects: 0.016100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 704.
+Total: 4.605800 ms (FindLiveObjects: 0.094600 ms CreateObjectMapping: 0.141400 ms MarkObjects: 4.346600 ms  DeleteObjects: 0.021600 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 121 unused Assets to reduce memory usage. Loaded Objects now: 811.
+Total: 2.301900 ms (FindLiveObjects: 0.074300 ms CreateObjectMapping: 0.064700 ms MarkObjects: 2.015700 ms  DeleteObjects: 0.117400 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 817.
+Total: 2.351000 ms (FindLiveObjects: 0.051500 ms CreateObjectMapping: 0.240500 ms MarkObjects: 2.040400 ms  DeleteObjects: 0.017900 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 822.
+Total: 1.915400 ms (FindLiveObjects: 0.049400 ms CreateObjectMapping: 0.032600 ms MarkObjects: 1.829900 ms  DeleteObjects: 0.002600 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 958.
+Total: 3.973900 ms (FindLiveObjects: 0.117200 ms CreateObjectMapping: 0.150100 ms MarkObjects: 3.699000 ms  DeleteObjects: 0.006300 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 822.
+Total: 2.036800 ms (FindLiveObjects: 0.041800 ms CreateObjectMapping: 0.031900 ms MarkObjects: 1.959700 ms  DeleteObjects: 0.003000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 827.
+Total: 1.946400 ms (FindLiveObjects: 0.036300 ms CreateObjectMapping: 0.032500 ms MarkObjects: 1.874100 ms  DeleteObjects: 0.002800 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 828.
+Total: 1.947200 ms (FindLiveObjects: 0.038000 ms CreateObjectMapping: 0.033200 ms MarkObjects: 1.872600 ms  DeleteObjects: 0.002800 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 796.
+Total: 3.411400 ms (FindLiveObjects: 0.109200 ms CreateObjectMapping: 0.058500 ms MarkObjects: 3.234500 ms  DeleteObjects: 0.008000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 827.
+Total: 3.691200 ms (FindLiveObjects: 0.111500 ms CreateObjectMapping: 0.099000 ms MarkObjects: 3.473700 ms  DeleteObjects: 0.005800 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 827.
+Total: 2.797800 ms (FindLiveObjects: 0.044900 ms CreateObjectMapping: 0.045500 ms MarkObjects: 2.694300 ms  DeleteObjects: 0.012400 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 827.
+Total: 2.729200 ms (FindLiveObjects: 0.066900 ms CreateObjectMapping: 0.049200 ms MarkObjects: 2.607600 ms  DeleteObjects: 0.004700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 800.
+Total: 3.903300 ms (FindLiveObjects: 0.062000 ms CreateObjectMapping: 0.069100 ms MarkObjects: 3.744500 ms  DeleteObjects: 0.026400 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 833.
+Total: 4.927000 ms (FindLiveObjects: 0.086100 ms CreateObjectMapping: 0.116600 ms MarkObjects: 4.716400 ms  DeleteObjects: 0.006500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 832.
+Total: 2.496200 ms (FindLiveObjects: 0.062000 ms CreateObjectMapping: 0.073600 ms MarkObjects: 2.355900 ms  DeleteObjects: 0.003900 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 832.
+Total: 2.933900 ms (FindLiveObjects: 0.059400 ms CreateObjectMapping: 0.070600 ms MarkObjects: 2.798500 ms  DeleteObjects: 0.004500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 793.
+Total: 6.390500 ms (FindLiveObjects: 0.203900 ms CreateObjectMapping: 0.391600 ms MarkObjects: 5.783800 ms  DeleteObjects: 0.009700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 820.
+Total: 5.111000 ms (FindLiveObjects: 0.075100 ms CreateObjectMapping: 0.088000 ms MarkObjects: 4.939100 ms  DeleteObjects: 0.007400 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 815.
+Total: 4.165200 ms (FindLiveObjects: 0.075300 ms CreateObjectMapping: 0.178000 ms MarkObjects: 3.896900 ms  DeleteObjects: 0.013700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 816.
+Total: 4.124000 ms (FindLiveObjects: 0.071700 ms CreateObjectMapping: 0.098000 ms MarkObjects: 3.947200 ms  DeleteObjects: 0.006100 ms)
+
+APP QUIT
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+  at System.Net.Sockets.NetworkStream.Read (System.Byte[] buffer, Int32 offset, Int32 size) [0x00000] in <filename unknown>:0 
+  at System.IO.Stream.ReadByte () [0x00000] in <filename unknown>:0 
+  at System.IO.BinaryReader.ReadByte () [0x00000] in <filename unknown>:0 
+  at System.IO.BinaryReader.ReadSByte () [0x00000] in <filename unknown>:0 
+  at Session_ME+MessageCollector.readMessage () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
